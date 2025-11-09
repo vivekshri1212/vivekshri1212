@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Vivek!
 
-<!--
-**vivekshri1212/vivekshri1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer (in progress) 🚀  
 
-Here are some ideas to get you started:
+I'm learning how to build beautiful, responsive and user-friendly web interfaces.  
+Design and coding dono pasand hai — especially JavaScript aur UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I'm Learning:
+- HTML, CSS, JavaScript
+- Responsive Web Design
+- DOM Manipulation & Browser Scripting
+- Front-end Tools (VS Code, Figma, Canva)
+
+---
+
+### 🎨 Interests:
+- UI / UX Design and Clean Layouts
+- Making aesthetic web pages
+- Front-end Animations & Effects
+
+---
+
+### 🌱 Goal:
+Become a **Professional Front-End Developer** and create **modern, creative and smooth UI websites**.
+
+---
+
+### 🤝 Let's Connect:
+Feel free to collaborate, share ideas, or code together ✨
